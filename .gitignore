@@ -1,0 +1,12 @@
+/all images/
+/test/
+/train/
+/.idea/
+/Tensorflow/labelImg/
+/Tensorflow/models/
+/Tensorflow/workspace/pre-trained-models/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz/
+/Tensorflow/workspace/pre-trained-models/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/
+/Tensorflow/workspace/models/my_ssd_mobnet/
+/Tensorflow/workspace/images/all images/**
+/Tensorflow/workspace/images/test/**
+/Tensorflow/workspace/images/train/**
